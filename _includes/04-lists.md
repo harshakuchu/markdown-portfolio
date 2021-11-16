@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. HYD
+2. VIZAG
+3. MUB
+   1. CHE
+   2. DEL
+* ICE
+* CHO
+  * CRI
+  * VLB
